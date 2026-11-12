@@ -30,5 +30,5 @@ The code for client projects is private. Each case study states what I built and
 ## Contact
 
 - Leeds, United Kingdom — remote, Europe and US overlap
-- Email: anthonyadavid@outlook.com
+- Email: anthonydavidhyk@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anthony-david-3b3a1a127/
